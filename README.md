@@ -20,4 +20,4 @@ The main goal of this repository is to improve my understanding of NumPy through
 - NumPy
 
 ## Author
-[Kumar Kartikay]
+# Kumar Kartikay
